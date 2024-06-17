@@ -1,0 +1,10 @@
+beach.jpg coloredgeDemo.jpg 2 0 0 270 180 coloredge 5 0 180 400 180 coloredge 3
+qr.jpg QRdemo.jpg 1 0 0 370 228 QRcode
+qr.jpg QRdemo2.jpg 1 0 0 370 228 QRcodqul
+
+dog2.pgm cannyDemo.jpg 2 0 0 1041 1500 cannycv 1000 1700 1000 1000 cannycv
+dog2.pgm histoeqDemo.jpg 2 0 0 1041 1500 histoeq 1000 1700 1000 1000 histoeq
+dog2.pgm cannyHistoDemo.jpg 3 0 0 1041 1500 cannyhisto 1000 1700 1000 1000 cannyhisto 1150 0 932 1000 cannyhisto
+flower.pgm otsuDemo.jpg 3 0 0 900 700 otsucv 0 1400 400 280 otsucv 1200 0 1040 1680 otsucv
+flower.pgm binaryEdgeDemo.jpg 2 0 0 1120 1680 binaryedge 129 0 1120 0 1120 1680 binaryedge 129 45
+winter.pgm sobelDemo.jpg 3 100 100 450 450 sobel3 562 375 562 375 sobel5 562 0 300 300 sobel5
